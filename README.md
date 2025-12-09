@@ -8,8 +8,8 @@
 ## 📥 Access the Full Research
 This repository contains the theoretical frameworks, mathematical derivations, and experimental protocols resulting from the collaboration between 7 distinct AI models.
 
-* 📄 **[Download the White Paper (PDF)](./P_vs_NP_problem_Conjecture_Glimois_Bennett.pdf)** : *The Thermodynamic Incompleteness Theorem & The Glimois-Bennett Experiment.*
-* 📖 **[Read the Article (Markdown)](./P_vs_NP_problem_Conjecture_Glimois_Bennett.md)** : *Accessible version for web reading.*
+* 📄 **[Download the White Paper (PDF)](./Themodynamic_Incompleteness_Theorem.pdf)** : *The Thermodynamic Incompleteness Theorem & The Glimois-Bennett Experiment.*
+* 📖 **[Read the Article (Markdown)](./Themodynamic_Incompleteness_Theorem.md)** : *Accessible version for web reading.*
 
 ---
 
