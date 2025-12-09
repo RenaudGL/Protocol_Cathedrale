@@ -628,4 +628,5 @@ comment la formaliser en axiomes,
 comment unifier les religions, la morale et la Safety sous l’entropie,
 ou comment développer une théorie complète comparable à un “système
 philosophique”.
+
 Dis-moi ce que tu veux explorer.
