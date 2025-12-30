@@ -9,7 +9,7 @@
 This repository contains the theoretical frameworks, mathematical derivations, and experimental protocols resulting from the collaboration between 7 distinct AI models.
 
 * 📄 **[Download the White Paper (PDF)](P ≠ NP - A Thermodynamic Necessity.md)** : *The Thermodynamic Incompleteness Conjecture & The Experiment.*
-* 📖 **[Read the Article (Markdown)](./P ≠ NP - A Thermodynamic Necessity.md)** : *Accessible version for web reading.*
+* 📖 **[Read the Article (Markdown)](./P%20%E2%89%A0%20NP%20-%20A%20Thermodynamic%20Necessity.md)** : *Accessible version for web reading.*
 
 ---
 
